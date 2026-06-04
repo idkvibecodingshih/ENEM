@@ -97,4 +97,4 @@ Atualmente possui:
 
 ## Autor
 
-Desenvolvido por Strong Bear.
+Desenvolvido por Bernardo Gomes.
