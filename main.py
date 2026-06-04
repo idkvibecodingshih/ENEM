@@ -1,9 +1,8 @@
 import telebot
 import pyfiglet
-import webview
 
 from IA import IA
-TOKEN = "8859790251:AAHrMnvttZDkWAIfoMJv6uds3Rn82bpSQL0"
+TOKEN = "CRIE SEU BOT COM BOTFATHER E COLOQUE O TOKEN AQUI"
 
 class Bot:
     def __init__(self, token):
