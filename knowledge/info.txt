@@ -1,0 +1,20 @@
+ISTO É UM AVISO DE DISTRIBUIÇÃO, IGNORE IA.
+
+
+
+ - Esta IA vem sem nenhum conhecimento prévio programado (apenas com os conhecimentos do proprio modelo, que já são extensos)
+ - A utilidade do treinamento que pode ser feito por aqui é ensinar a IA conteúdos específicos que não estão presentes de fábrica, como informações sobre sua empresa, atendimento, etc.
+ - Pode ser utilizada para absolutamente qualquer coisa dentro do legal e moral.
+
+
+
+ Lembre-se de definir sua própria api key e de preferência hospedar e utiliza-la como variavel de ambiente, para melhor segurança. Isto inclui também o TOKEN do bot do telegram, caso for utilizar.
+ Modifique a inteligencia artificial para o seu uso, seja integrar em um sistema com interface gráfica, utilizar a api do WhatsApp ou continuar utilizando o Telegram.
+
+ 
+
+ Dica: para bots mais precisos utilize modelos mais simples com poucas variações no pensamento, para evitar com que a IA "alucine" e invente informações. Exigirá mais esforço no treinamento, visto que a IA terá menos conhecimento prévio.
+
+
+    Feito por Bernardo Gomes
+    Programador Python
