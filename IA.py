@@ -14,7 +14,7 @@ class IA:
             self.behavior += line.strip() + "\n"
 
         self.client = OpenAI(
-            api_key="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",
+            api_key="COLOQUE SUA API KEY AQUI",
             base_url="https://api.groq.com/openai/v1"
         )
 
